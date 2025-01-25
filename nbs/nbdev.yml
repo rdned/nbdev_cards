@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "nbdev_cards"
+  site-url: "https://rdned.github.io/nbdev_cards"
+  description: "A nbdev tutorial on a tiny project"
+  repo-branch: main
+  repo-url: "https://github.com/rdned/nbdev_cards"
